@@ -1,5 +1,3 @@
 # test
 
-hello
-test
-hello
+hi there
